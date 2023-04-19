@@ -1,0 +1,33 @@
+#fname{
+  width: 20rem;
+  outline: none;
+  padding: 1rem 1rem 1rem 1rem;
+  border-radius: 10px;
+  border: 1px solid white;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  background-color: white;
+}
+#fnames{
+  width: 50rem;
+  outline: none;
+  padding: 1rem 1rem 1rem 1rem;
+  border-radius: 10px;
+  border: 1px solid white;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  background-color: white;
+}
+#country{
+    width: 35rem;
+    outline: none;
+    padding: 1rem 1rem 1rem 1rem;
+    border-radius: 10px;
+    border: 1px solid white;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    background-color: white;
+  } 
+  h2, h1, h6, p{
+    color: white;
+  }
